@@ -1,0 +1,4 @@
+*.pyc
+__pycache__/
+src/core/notifications/__pycache__/Notification.cpython-312.pyc
+src/core/notifications/__pycache__/Notification.cpython-312.pyc
